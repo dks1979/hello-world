@@ -1,2 +1,2 @@
 def myWorld:
-  print "dks"
+  print ("dks", eods" ") 
