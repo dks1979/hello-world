@@ -1,0 +1,2 @@
+def myWorld:
+  print "dks"
